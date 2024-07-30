@@ -2,7 +2,7 @@
 
 Meu nome é Giovana Andrade
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compatilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,5 @@ Meu nome é Giovana Andrade
 
 00001131459568sp@al.educacao.sp.gov.br
 
-![](https://media1.tenor.com/m/1fP3ilIbOZ8AAAAC/darthmall74-downblouse.gif)
+
+![](https://media1.tenor.com/m/p5CuZUwoBgsAAAAd/running-elaine-thompson-herah.gif)
